@@ -1,7 +1,7 @@
 #hero {
   background-color: #efe7ec;
 
-  background-image: url("css/images/bg.jpg");
+  background-image: url("images/bg.jpg");
 
   background-repeat: no-repeat;
   background-position: right bottom;
@@ -42,3 +42,4 @@
   cursor: pointer;
   background-color: transparent;
 }
+
